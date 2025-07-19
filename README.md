@@ -1,5 +1,5 @@
 # 👾Pokedex Interativa
-
+#### Curso da DIO - Ri Happy - Front-end do Zero
 >>Um projeto simples, desenvolvido para estudar JavaScript Vanilla, o qual contei com o auxílio de cursos da DIO para seu desenvolvimento.
 
 O projeto consiste em uma Pokedex interativa construída com **HTML**, **CSS** e **JavaScript Vanilla**, que consome dados da [PokeAPI](https://pokeapi.co/), dessa maneira exibindo os dados dos pokémons da primeira geração.
