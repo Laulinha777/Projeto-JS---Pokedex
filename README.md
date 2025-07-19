@@ -1,6 +1,6 @@
 # 👾Pokedex Interativa
 
->>Um projeto simples, desenvolvido para estudar JavaScript Vanilla
+>>Um projeto simples, desenvolvido para estudar JavaScript Vanilla, e para seu desenvolvimento contei com a ajuda de cursos da DIO.
 
 O projeto consiste em uma Pokedex interativa construída com **HTML**, **CSS** e **JavaScript Vanilla**, que consome dados da [PokeAPI](https://pokeapi.co/), dessa maneira exibindo os dados dos pokémons da primeira geração.
 
@@ -13,5 +13,12 @@ O projeto consiste em uma Pokedex interativa construída com **HTML**, **CSS** e
 - Busca dinâmica via API
 - Layout responsivo com Grid
 - Exibição de cards com nome, habilidades, imagem e ID.
+
+## Para executar o projeto:
+
+### 1. Clone o repositório.
+### 2. Realize a instalação do http-server  <pre> ```npm install -g http-server```</pre>
+### 3. Rode o servidor usando o comando `http-server` no terminal
+### 4. O projeto estará disponível na porta fornecida pelo terminal. 
 
 ____________________________________________________________________________________________🐉⚡🐦🔥👻________________________________________________________________________________________________________________
